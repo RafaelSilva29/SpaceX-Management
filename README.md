@@ -33,7 +33,7 @@ npm run lint
 
 ### Details:
 
-- First I consult the API documention on: [SpaceX API V4 Docs](https://github.com/r-spacex/SpaceX-API/tree/master/docs/v4){:target="_blank" rel="noopener"}
+- First I consult the API documention on: [SpaceX API V4 Docs](https://github.com/r-spacex/SpaceX-API/tree/master/docs/v4)
 
 - Then I import the collecions to Postman for testing the End-Points, as you can see below.
 
